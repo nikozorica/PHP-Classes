@@ -1,0 +1,21 @@
+.leftpiece
+{ 
+	min-width:25%; 
+	float:left; 
+	margin-left:5em; 
+	margin-right:5em; 
+}
+ 
+.middlepiece
+{ 
+	min-width:20%; 
+	float:left; 
+	margin-right:5em; 
+}
+ 
+.rightpiece
+{ 
+	min-width:25%; 
+	float:left; 
+}
+
